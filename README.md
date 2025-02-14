@@ -3,7 +3,7 @@
 Este proyecto utiliza la biblioteca `turtle` de Python para dibujar dos cuadrados y conectarlos con lineas de puntos, creando un efecto visual de cubo 3D
 
 
-## 🖥️ Requisitos
+## Requisitos
 
 **Este proyecto fue desarrollado y probado en:**
 
