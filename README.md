@@ -1,2 +1,5 @@
-##Inteligencia Artificial
-#ite
+# Inteligencia Artificial 
+
+Practicas de clase
+
+## ite
