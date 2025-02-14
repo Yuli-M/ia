@@ -14,7 +14,7 @@ Python: 3.12.3
 Entorno virtual: venv
 
 Si al ejecutar obtienes el error `No module named '_tkinter'`, debes instalar el paquete de la interfaz Tk en tu sistema, con:
-    -En Ubuntu:
+    - En Ubuntu:
       ```bash
       sudo apt-get install python3-tk
       ```
